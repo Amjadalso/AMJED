@@ -1,0 +1,22 @@
+#include <iostream>
+#using namespace std;
+Int main() {
+Int x , n;
+While (x > 0 && < 10)
+{
+   cout<< "Enter number 1 - 10 ";
+   cin >>x;
+ 
+   If (x % 2 == 0)
+    {
+      cout<< x "even \n";
+    }
+    else {
+      cout<<x"odd \n";
+    }
+}
+
+
+
+return 0
+}
